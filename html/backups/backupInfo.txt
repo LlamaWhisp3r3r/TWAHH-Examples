@@ -1,0 +1,7 @@
+I store all my backups in the root directory and I use many well known file extensions. Such as:
+- bak
+- src
+- inc
+- old
+
+Phil, please make sure you have rob backup the site every other day. This site is critical for our business.

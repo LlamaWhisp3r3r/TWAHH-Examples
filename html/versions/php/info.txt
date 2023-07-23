@@ -1,0 +1,2 @@
+This version of the website should only include php documents. We are thinking of going to just php.
+Hopefully no one gets into this side of things.
