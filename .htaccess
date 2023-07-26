@@ -1,0 +1,6 @@
+RedirectMatch 301 "^/chapter4/html/products/$" "/chapter4/html/products/products.html"
+RedirectMatch 301 "^/chapter4/html/about/$" "/chapter4/html/about/about.html"
+RedirectMatch 301 "^/chapter4/html/login/$" "/chapter4/html/login/login.html"
+RedirectMatch 301 "^/chapter4/html/admin/$" "/chapter4/html/admin/admin.html"
+RedirectMatch 301 "^/chapter4/$" "/chapter4/html/index.html"
+

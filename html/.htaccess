@@ -1,5 +1,0 @@
-RedirectMatch 301 "^/products/$" "/products/products.html"
-RedirectMatch 301 "^/about/$" "/about/about.html"
-RedirectMatch 301 "^/login/$" "/login/login.html"
-RedirectMatch 301 "^/admin/$" "/admin/admin.html"
-
